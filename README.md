@@ -27,5 +27,6 @@ A CodeRise é um sistema que oferece uma ampla gama de cursos de programação p
 
 * [Back-end](https://github.com/Tallia-Sousa/CodeRise_Backend)
 * [Front-end](https://github.com/JamesMorais/CodeR.git)
-
+# Link do site
+*[Site](https://code-rise.netlify.app/)
 
